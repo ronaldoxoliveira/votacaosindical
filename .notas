@@ -1,0 +1,6 @@
+#2021-02-11
+- Laravel 8 com bootstrap 4.X.
+- A entidade instituições tem o CNPJ liberado pela realidade relatada pelo Eduardo: Há instituições com dois CNPJs igual e também há instituições sem CNPJ.
+- Instalado a biblioteca https://github.com/LaravelLegends/pt-br-validator.
+#2021-02-16
+- Instalado a biblioteca javascript Inputmask https://github.com/RobinHerbots/Inputmask
